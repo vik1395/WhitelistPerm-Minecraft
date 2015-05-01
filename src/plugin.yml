@@ -1,0 +1,8 @@
+name: WhitelistPerm
+version: 1.2
+description: A whitelist plugin that only allows players with permission to join the server.
+author: Vik1395
+
+main: me.vik1395.whitelist.Whitelist
+
+commands:

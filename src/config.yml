@@ -1,0 +1,4 @@
+Allowed: "Welcome to our server"
+# This message is shown to the player when he/she joins the server. you may change the message color by using & followed by the corresponding number
+Kick: "You are not whitelisted on this server"
+# This is the message sent to non whitelisted players who try to join
